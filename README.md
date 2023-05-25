@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">A Web Applications Development Student</h3>
+<h3 align="center">Junior Developer</h3>
 
-- 🔭 I’m currently studying **A Grade in Web Applications Development**
-
-- 🌱 I’m currently learning **JavaScript, PHP and different frameworks**
+- 🌱 I’m currently working with Drupal, PHP and Js
 
 - 📫 How to reach me **mvaleromartin@gmail.com**
 
